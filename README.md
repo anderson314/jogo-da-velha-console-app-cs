@@ -1,8 +1,5 @@
 ﻿# Jogo da Velha - Console App
 
-## Sobre
-Simples jogo da velha com interface de terminal.
-
 <p align="center">
  <a href="#sobre">Sobre</a> • 
  <a href="#demonstração">Demonstração</a> • 
@@ -12,7 +9,10 @@ Simples jogo da velha com interface de terminal.
  <a href="#autor">Autor</a>
 </p>
 
-## Demonstração
+## 🗒Sobre
+Simples jogo da velha com interface de terminal.
+
+## 🖥Demonstração
 
 <p align="center"> 
   Humano contra humano.
@@ -33,21 +33,21 @@ Simples jogo da velha com interface de terminal.
   <img width="500" height="300" src="Imagens/modo-pc.gif">
 </p>
 
-## Como usar
+## 🕹Como usar
 
 Para jogar, basta baixar o respositório, entrar na pasta "Executável" e abrir o executável que está nela. 
 
 Se quiser modificar, contribuir com o projeto, primeiro é necessário instalar o [.NET](https://dotnet.microsoft.com/download). Em seguida, instale o [Visual Studio](https://visualstudio.microsoft.com/downloads/) ou o [Visual Studio Code](https://code.visualstudio.com/).
 
-## Tecnologias
+## 💻Tecnologias
 
 [.NET](https://dotnet.microsoft.com/download)
 
-## Licença
+## 📝Licença
 
 Projeto sob licença do MIT. Leia o [LICENSE](https://github.com/anderson314/jogo-da-velha-console-app-cs/blob/master/LICENSE), para mais informações.
 
-## Autor
+## 👨‍💻Autor
 
 - [Anderson Rodrigo da Silva](https://github.com/anderson314)
   - [![Linkedin Badge](https://img.shields.io/badge/-Anderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-rodrigo-da-silva-63598a209/)](https://www.linkedin.com/in/anderson-rodrigo-da-silva-63598a209/) 
