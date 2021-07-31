@@ -45,7 +45,7 @@ Se quiser modificar, contribuir com o projeto, primeiro é necessário instalar 
 
 ## Licença
 
-Projeto sob licença do MIT. Leia o [LICENSE](), para mais informações.
+Projeto sob licença do MIT. Leia o [LICENSE](https://github.com/anderson314/jogo-da-velha-console-app-cs/blob/master/LICENSE), para mais informações.
 
 ## Autor
 
