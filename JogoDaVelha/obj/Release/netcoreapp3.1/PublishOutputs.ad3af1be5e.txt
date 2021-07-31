@@ -1,0 +1,5 @@
+C:\Users\Anderson\Documents\Projetos\Jogos\JogoDaVelha\Executável\JogoDaVelha.exe
+C:\Users\Anderson\Documents\Projetos\Jogos\JogoDaVelha\Executável\JogoDaVelha.dll
+C:\Users\Anderson\Documents\Projetos\Jogos\JogoDaVelha\Executável\JogoDaVelha.deps.json
+C:\Users\Anderson\Documents\Projetos\Jogos\JogoDaVelha\Executável\JogoDaVelha.runtimeconfig.json
+C:\Users\Anderson\Documents\Projetos\Jogos\JogoDaVelha\Executável\JogoDaVelha.pdb

@@ -1,0 +1,5 @@
+C:\Users\Anderson\Desktop\JogoDaVelha.exe
+C:\Users\Anderson\Desktop\JogoDaVelha.dll
+C:\Users\Anderson\Desktop\JogoDaVelha.deps.json
+C:\Users\Anderson\Desktop\JogoDaVelha.runtimeconfig.json
+C:\Users\Anderson\Desktop\JogoDaVelha.pdb
